@@ -1,2 +1,2 @@
-# STATS-507-HW1
+# STATS507- coursework
 Yongxi's STATS 507 HW1
